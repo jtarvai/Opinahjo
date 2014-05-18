@@ -11,3 +11,6 @@ Kurssikeskus Opinahjo järjestää maksullisia kursseja eri aihepiireistä. Yhte
 
 Kuka tahansa voi tutkia kurssitietoja ja ilmoittautua kurssille. Jotta ilmoittautuminen tulisi voimaan, on varaajan maksettava varausmaksu. Tätä varten varaajalle ilmoitetaan tilinumero ja varaukseen liittyvä viitenumero ja varausmaksun määrä. Jos varaaja erikseen pyytää laskua varausmaksusta, sellainen lähetetään. Varsinainen kurssimaksun laskutus ei kuulu tämän järjestelmän piiriin.
 
+Ohjelmointikieli: Java
+Tietokanta: PostgreSQL
+
